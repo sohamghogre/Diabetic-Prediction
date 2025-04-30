@@ -28,6 +28,17 @@ diabetic-prediction/
 ├── styles/            # Global styles
 ├── package.json       # Project metadata and dependencies
 ```
+![Screenshot 2025-04-30 094912](https://github.com/user-attachments/assets/56bb3fc2-0db0-4a59-8201-e82dde2ab31e)
+
+![Screenshot 2025-04-30 094930](https://github.com/user-attachments/assets/5fe2059e-2c23-4a69-b0a9-eadaf5c401d5)
+![Screenshot 2025-04-30 094947](https://github.com/user-attachments/assets/5916ebc5-b705-4302-838c-e6467c3c6c18)
+![Screenshot 2025-04-30 095010](https://github.com/user-attachments/assets/a2bc2ac6-a56c-4af0-a418-70afcf9e2ff5)
+![Screenshot 2025-04-30 095043](https://github.com/user-attachments/assets/79676141-b5c0-4a7f-86bc-c3eb2ba8b1bd)
+
+
+
+
+
 
 ## 🧠 Models Implemented
 
